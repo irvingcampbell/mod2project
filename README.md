@@ -12,8 +12,8 @@ Using goals and points statistics from NHL players from 1940-2017, this project 
 
 ## Collaborators
 
-- Buddy Bernhard
-- Irving Campbell
+- [Buddy Bernhard](https://github.com/BudBernhard)
+- [Irving Campbell](https://github.com/irvingcampbell)
 
 ## Methods Used
 
