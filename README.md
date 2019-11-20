@@ -1,8 +1,10 @@
-# Mod 3 Project
-
 # NHL Statistical Analyses
 
 This project is part of the Flatiron School Data Science Fellowship requirements.
+
+# Slide Deck
+
+https://docs.google.com/presentation/d/1SUyliAcehcWRUGnE2pYFd1p6wEPfNhvfAiF5YMmV85M/edit?usp=sharing
 
 # Project Discussion
 
