@@ -44,3 +44,4 @@ Ha: There is a statistically significant difference between teams' goals scored 
 
 - NHL player stats at http://inalitic.com/datasets/nhl%20player%20data.html 
 - NHL team stats through the NHL's REST API
+- [API from records.nhl.com](https://gitlab.com/dword4/nhlapi/blob/master/stats-api.md) Found via [Drew Hynes](https://gitlab.com/dword4)
